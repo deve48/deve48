@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deve48
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 telegram @awesometarget
