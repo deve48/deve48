@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deve48
-- 👀 I’m interested in programming
+- 👀 I’m Student at Samarkand
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
